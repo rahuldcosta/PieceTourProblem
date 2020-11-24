@@ -1,0 +1,5 @@
+com\truecaller\tech\test\PieceTourPathApplication.class
+com\truecaller\tech\test\exceptions\TilePositionException.class
+com\truecaller\tech\test\modal\Board.class
+com\truecaller\tech\test\processor\PieceTourPathProcessor.class
+com\truecaller\tech\test\modal\Tile.class
